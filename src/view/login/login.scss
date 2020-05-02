@@ -1,0 +1,13 @@
+.box{
+  height: 100px;
+  width: 100px;
+  background-color: green;
+  .inner{
+    height: 50px;
+    width: 50px;
+    background-color: red;
+  }
+}
+h1{
+  background-color: green;
+}
